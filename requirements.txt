@@ -1,0 +1,6 @@
+fastapi==0.78.0
+mysqlclient==2.1.1
+requests==2.28.0
+SQLAlchemy==1.4.39
+uvicorn==0.18.2
+python-telegram-bot==20.0a1
