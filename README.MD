@@ -1,4 +1,4 @@
-# PYTHON TELEGRAM EXCHANGE BOT
+# PYTHON TELEGRAM CRYPTO EXCHANGE BOT
 
 -------------------------------------------
 
@@ -18,3 +18,6 @@
 4. Exec `python3 ./main.py`
 
 5. Go to bot and click start. After this go to your db and set rule is_admin to 1 beside your user column. Type /start into your bot again.
+
+
+Locales in file localisation.py (default language: ru)
